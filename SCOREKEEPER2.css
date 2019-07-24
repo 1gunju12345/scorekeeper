@@ -1,0 +1,26 @@
+.winner{
+		color: green;
+	}
+	#p1{
+		color: black;
+		border-radius: 50%;
+		background-color:#ff8080;
+		font-size: 16px;
+		text-align: center;
+	}
+	#p2{
+		color: black;
+		border-radius: 50%;
+		background-color: #ff884d;
+		font-size: 16px;
+		text-align: center;
+	}
+	#reset{
+		color:black;
+		font-size: 16px;
+		background-color: #33cc33;
+
+	}
+	#div{
+         background: url("C:\Users\BUSINESS POINT\Pictures\download.png");
+    }
